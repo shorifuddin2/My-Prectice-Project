@@ -1,0 +1,13 @@
+
+.nav-img{
+    width: 80px;
+    height: 50px;
+}
+.footer-img{
+order: 2;
+}
+.footer-text{
+    text-align: right;
+    margin-top: 50;
+    order: 1;
+}
